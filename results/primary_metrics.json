@@ -1,0 +1,58 @@
+{
+  "models": {
+    "PhyTCR-Net": {
+      "P": {
+        "rmse": 3.191545630442506,
+        "unit": "mmHg"
+      },
+      "Q": {
+        "rmse": 4.111449106998792,
+        "unit": "mL/s"
+      }
+    },
+    "D1": {
+      "P": {
+        "rmse": 3.3895052575000912,
+        "unit": "mmHg"
+      },
+      "Q": {
+        "rmse": 5.2673803779689,
+        "unit": "mL/s"
+      }
+    }
+  },
+  "paired_comparison": {
+    "P": {
+      "mean_D1_minus_PhyTCR_Net": 0.1979596270575853,
+      "CI95": [
+        -0.05260673542158948,
+        0.5189954994898074
+      ],
+      "unstratified_CI95": [
+        -0.05347871893617666,
+        0.5137324808000858
+      ],
+      "PhyTCR_Net_lower_error_groups": 32,
+      "ties": 0,
+      "unit": "mmHg"
+    },
+    "Q": {
+      "mean_D1_minus_PhyTCR_Net": 1.1559312709701073,
+      "CI95": [
+        0.8273294362971232,
+        1.5210759882713556
+      ],
+      "unstratified_CI95": [
+        0.7975247930312417,
+        1.5376403315674931
+      ],
+      "PhyTCR_Net_lower_error_groups": 51,
+      "ties": 0,
+      "unit": "mL/s"
+    }
+  },
+  "provenance_groups": 63,
+  "geometries": 70,
+  "seeds_per_geometry": 3,
+  "aggregation": "three-seed geometry mean, within-group geometry mean, equal mean of 63 groups"
+}

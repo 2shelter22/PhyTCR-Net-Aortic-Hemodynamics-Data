@@ -1,0 +1,40 @@
+{
+  "PhyTCR-Net": {
+    "schema": {
+      "node_common": 12,
+      "edge_common": 13,
+      "global_common": 9,
+      "node_common_time": 8,
+      "edge_common_time": 9,
+      "node_rom": 2,
+      "edge_rom": 5,
+      "node_rom_time": 2,
+      "edge_rom_time": 3
+    },
+    "use_rom": true,
+    "residual": true,
+    "message_passing": false,
+    "width": 160,
+    "depth": 8,
+    "dropout": 0.05
+  },
+  "D1": {
+    "schema": {
+      "node_common": 12,
+      "edge_common": 13,
+      "global_common": 9,
+      "node_common_time": 8,
+      "edge_common_time": 9,
+      "node_rom": 2,
+      "edge_rom": 5,
+      "node_rom_time": 2,
+      "edge_rom_time": 3
+    },
+    "use_rom": true,
+    "residual": false,
+    "message_passing": true,
+    "width": 128,
+    "depth": 8,
+    "dropout": 0.05
+  }
+}

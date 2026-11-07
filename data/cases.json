@@ -1,0 +1,1196 @@
+{
+  "case_count": 70,
+  "provenance_group_count": 63,
+  "cases": [
+    {
+      "case_id": "aorta_002",
+      "source_group": "VMR_IMAGE_0002",
+      "nodes": 90,
+      "edges": 89,
+      "phases": 64,
+      "label_path": "data/cases/aorta_002/labels.npz",
+      "raw_file_sha256": {
+        "graph": "8bf665a27d95b90bae0d64b62a28b1e31649d69ab5223becfab1a7b6451c26c2",
+        "boundary": "2b1c3063a0bdbac592c110f461a45f6106e8961bb22b4a0acbbf7e2d2e95a6be",
+        "labels": "c6a658a429b42aea981d87a25edc487e624b06956532da63d3680a52ffee027d"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 60,
+      "valid_flow_sections": 62,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_003",
+      "source_group": "VMR_IMAGE_0003",
+      "nodes": 81,
+      "edges": 80,
+      "phases": 64,
+      "label_path": "data/cases/aorta_003/labels.npz",
+      "raw_file_sha256": {
+        "graph": "5661bcc95c5a5b8899e8906fcd9a8febbe7382498d6106dedda8323fea49f75e",
+        "boundary": "31a8d4d12d67ba491d3c04fb6b42952995e66b7f2c58a0963144ad5650d2d9ba",
+        "labels": "60415de2216a0269f002e974f6ac101720bb73d21bff11dec289e9f3c48c036d"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 58,
+      "valid_flow_sections": 57,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_004",
+      "source_group": "VMR_IMAGE_0004",
+      "nodes": 90,
+      "edges": 89,
+      "phases": 64,
+      "label_path": "data/cases/aorta_004/labels.npz",
+      "raw_file_sha256": {
+        "graph": "3d6af225e60c70b1bf43dda242ab40c29c0ff8bf49fbb539bd10d9d4523a1fa3",
+        "boundary": "67a12c2dfe7342792bf35f6a1b38b49c960477cf9988df28e769b50298fe04e2",
+        "labels": "37e3c08eee7183d74df2f01317a5b6a3b7c2a239937fb5af38b5ff5bfd4af797"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 64,
+      "valid_flow_sections": 67,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_005",
+      "source_group": "VMR_IMAGE_0006",
+      "nodes": 92,
+      "edges": 91,
+      "phases": 64,
+      "label_path": "data/cases/aorta_005/labels.npz",
+      "raw_file_sha256": {
+        "graph": "efe3f73b66acede550e6bfae827822fc6f56e9941618d390f1e2e7db401c65d1",
+        "boundary": "ea0cb9bfd6bd338c0bca43529ac64833c19324ac7fe749e6b2624aefad580979",
+        "labels": "6e37999d60ae7e55c9a4d1c336e0dcf80377ee20f099ca38b510db26bf4ba15b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 63,
+      "valid_flow_sections": 70,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_006",
+      "source_group": "VMR_IMAGE_0007",
+      "nodes": 118,
+      "edges": 117,
+      "phases": 64,
+      "label_path": "data/cases/aorta_006/labels.npz",
+      "raw_file_sha256": {
+        "graph": "9f6ff5393bf3fca2b0e290834e16130e0b134888ca6c2110353eab8bc0e2e311",
+        "boundary": "eb3299c7641f6364d871eba8ad0c4a3cb6c3a0ba4914e60936725d69e51a3fe6",
+        "labels": "5cacbb15b7f68b4498a40e68901c182e6cb88708be28cfd9e880c9589adf8b59"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 92,
+      "valid_flow_sections": 97,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_007",
+      "source_group": "VMR_IMAGE_0008",
+      "nodes": 83,
+      "edges": 82,
+      "phases": 64,
+      "label_path": "data/cases/aorta_007/labels.npz",
+      "raw_file_sha256": {
+        "graph": "378ffd7d82943fe11cae73a4d0927672c4fe6d0e11f0479762a93e667ec1f3aa",
+        "boundary": "1ebb249842e7f8be3a81813491a889c9c389fd1e5f79c445f27f46488b694135",
+        "labels": "3554616ef554d91abe1b668d0263c7b1d906578561964fa57fb175b3dda591af"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 57,
+      "valid_flow_sections": 64,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_008",
+      "source_group": "VMR_IMAGE_0009",
+      "nodes": 108,
+      "edges": 107,
+      "phases": 64,
+      "label_path": "data/cases/aorta_008/labels.npz",
+      "raw_file_sha256": {
+        "graph": "4d80f49de92ac23adb9c80dd6703a2516234b36b16755c71efa562c564dd6442",
+        "boundary": "5e38432b4cdeca206061b2f4d6207a98deeb4f698c3e7deef9f51b1022c3e880",
+        "labels": "be30e9d699cb858fd98961a88f9f2d5cd412378aeef3963052c5956a3c64711d"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 83,
+      "valid_flow_sections": 88,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_009",
+      "source_group": "VMR_IMAGE_0010",
+      "nodes": 101,
+      "edges": 100,
+      "phases": 64,
+      "label_path": "data/cases/aorta_009/labels.npz",
+      "raw_file_sha256": {
+        "graph": "9abec6a5eaec38ff946436d2a63f1102e3763701284532b627542a7d30427d33",
+        "boundary": "6df190a294a364f585c0f14f08c5b1d1b1bd4e6dbafa0a0ca67511627338b13b",
+        "labels": "249a27ce7e40e37a90bc9f73b1de7d81f3f6f4a3b590be1cb49ffe1e2dd1e699"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 74,
+      "valid_flow_sections": 79,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_013",
+      "source_group": "VMR_IMAGE_0014",
+      "nodes": 92,
+      "edges": 91,
+      "phases": 64,
+      "label_path": "data/cases/aorta_013/labels.npz",
+      "raw_file_sha256": {
+        "graph": "2bc1b56bb0d68a6901ce0af3853bdff7802fc0bc8529ecdd855a94968086fe7f",
+        "boundary": "65d80ee7dd38827a1223082f6bdf52ecae773a0e34c056da54b9e30435f6eb8a",
+        "labels": "30e19fa49a28eec734dd7e2257423c61edc68a03e538e859091c868fec15d2a1"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 62,
+      "valid_flow_sections": 67,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_015",
+      "source_group": "VMR_IMAGE_0016",
+      "nodes": 113,
+      "edges": 112,
+      "phases": 64,
+      "label_path": "data/cases/aorta_015/labels.npz",
+      "raw_file_sha256": {
+        "graph": "4db5235cfe0b63f7fc24256c9cbacf49ba0946a83cda9415b5965ead8f5a1923",
+        "boundary": "44fcd3150a754e15cadb65beb4dc53f1baba2c85d57c62284048861b714275a5",
+        "labels": "fd04c4b93c82cdfb13a0c773dcaebea5b5cf00b96d40244ff1cc6eff10f72f45"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 81,
+      "valid_flow_sections": 88,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_016",
+      "source_group": "VMR_IMAGE_0017",
+      "nodes": 114,
+      "edges": 113,
+      "phases": 64,
+      "label_path": "data/cases/aorta_016/labels.npz",
+      "raw_file_sha256": {
+        "graph": "232d2e3ac40e63df0dc4ba0e3c5b83f717d07c2ee32323bdec5b8fcdf6419c92",
+        "boundary": "a9c58d792d25cb9815811d64c9e6ac84a6683844bcdc5b887ff7060ed0548b09",
+        "labels": "8e366b7f313bfb78b95fdfb838cdb56235529a542e1b72ff8cb4817a1037693c"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 83,
+      "valid_flow_sections": 89,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_017",
+      "source_group": "VMR_IMAGE_0017",
+      "nodes": 115,
+      "edges": 114,
+      "phases": 64,
+      "label_path": "data/cases/aorta_017/labels.npz",
+      "raw_file_sha256": {
+        "graph": "5f080b21905cb6791a1569667fb83699fc1084cb110cf3a6e381fee00c58010e",
+        "boundary": "d561be956e7dfe0378551d9dc05e44a8d6126194fe6e78519b25cfb488cd2d21",
+        "labels": "945fdc1a4e4b7d72c2811e5d5aebd88d785f8e5979a945890843c9b1159bdec8"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 83,
+      "valid_flow_sections": 89,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_018",
+      "source_group": "VMR_IMAGE_0018",
+      "nodes": 89,
+      "edges": 88,
+      "phases": 64,
+      "label_path": "data/cases/aorta_018/labels.npz",
+      "raw_file_sha256": {
+        "graph": "62d3f6e404c42af225c59c3e9beac5a3358fb82ac423acb141d9cd21d6829bfb",
+        "boundary": "37d8036350a0a99e6301e718d1efa33f305d5b9efeaf7fbdf713dc72b836d62c",
+        "labels": "9a0f5223b6e3a2251d01de1c1826fbfd508581f44a134734be9f80073f3d9a15"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 55,
+      "valid_flow_sections": 63,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_021",
+      "source_group": "VMR_IMAGE_0022",
+      "nodes": 98,
+      "edges": 97,
+      "phases": 64,
+      "label_path": "data/cases/aorta_021/labels.npz",
+      "raw_file_sha256": {
+        "graph": "3fed8853cc20aa58438432b826382f923845cea8de07b4a9a11a47da458809d8",
+        "boundary": "7360c013031a4ab88d943ea5e83922cd7b42288fcb3daaade4d4e86cc4d89cd3",
+        "labels": "115e8c43b060bd5bd88bbbe47e1732389c1e3133a7c93ca3ca139be3ceec539b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 81,
+      "valid_flow_sections": 81,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_022",
+      "source_group": "VMR_IMAGE_0024",
+      "nodes": 62,
+      "edges": 61,
+      "phases": 64,
+      "label_path": "data/cases/aorta_022/labels.npz",
+      "raw_file_sha256": {
+        "graph": "20a3e13c06a9c23d684276fd4ee27d3ca0e5a370684ab3d66e069e1c4a7dab48",
+        "boundary": "984ec099a0b5a96e538b51324b4ff803303a22df8cbfd63bbbfacd213d7cf5bc",
+        "labels": "80f248e73dc8e5b7e86c3ce9f42e8f72552aa8ec6d93891edb3b07d11fc1e0d7"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 37,
+      "valid_flow_sections": 39,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_024",
+      "source_group": "VMR_IMAGE_0025",
+      "nodes": 106,
+      "edges": 105,
+      "phases": 64,
+      "label_path": "data/cases/aorta_024/labels.npz",
+      "raw_file_sha256": {
+        "graph": "1395ee98080cf6a7522f7078520a0ad2a8aba9cbad910441bba364e6c309b94b",
+        "boundary": "23dd7e4971378501564032c01e08a44a716e612c09bd1c9e175047f9c2693190",
+        "labels": "2d9c9fe07a5a1cfb8e2d0f9682de2697525bae78c4ad80e0c40eb1c775d5a634"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 79,
+      "valid_flow_sections": 84,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_026",
+      "source_group": "VMR_IMAGE_0028",
+      "nodes": 356,
+      "edges": 355,
+      "phases": 64,
+      "label_path": "data/cases/aorta_026/labels.npz",
+      "raw_file_sha256": {
+        "graph": "357327bc7c937f1580356936079604fe94332301de9938548a5613e11eb186ef",
+        "boundary": "c3cc15e86a82141b8bf39f0384693e952faf9fb9c2eca22108bf26297c9026a5",
+        "labels": "67b6c25010bd18cb5e89d1b260aba5b2c06d58ec9b13860a248e14c9be5b6c6e"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 252,
+      "valid_flow_sections": 265,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_028",
+      "source_group": "VMR_IMAGE_0030",
+      "nodes": 415,
+      "edges": 414,
+      "phases": 64,
+      "label_path": "data/cases/aorta_028/labels.npz",
+      "raw_file_sha256": {
+        "graph": "6972c1b897a8ab7ce9ca813979a10f493c0c4b06ef559196cc4b6ddff61e304f",
+        "boundary": "aca97bb94274ea0db6faf851652be3a20234670745dafe63cd1b2724c06b4f86",
+        "labels": "822406723d7dfe063ebabde55f9be2ea4716601968840ac3f10f6e9609df4950"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 298,
+      "valid_flow_sections": 310,
+      "local_flow_sections": 2
+    },
+    {
+      "case_id": "aorta_029",
+      "source_group": "VMR_IMAGE_0031",
+      "nodes": 224,
+      "edges": 223,
+      "phases": 64,
+      "label_path": "data/cases/aorta_029/labels.npz",
+      "raw_file_sha256": {
+        "graph": "3b0e7cf7132dfbf090a65749dfecec7058872a6966c94041341dec44a938ea6c",
+        "boundary": "06b2b42c26ca15968d7343941b832f1f26c68a1d6723b2aeea1c78e215586718",
+        "labels": "1fddee8e193c29eece336dd210e135289ff3e831838c893b1bbc479e5cebb4dc"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 162,
+      "valid_flow_sections": 165,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_030",
+      "source_group": "VMR_IMAGE_0033",
+      "nodes": 287,
+      "edges": 286,
+      "phases": 64,
+      "label_path": "data/cases/aorta_030/labels.npz",
+      "raw_file_sha256": {
+        "graph": "cc6b219ad809b3970bd3d80bb36ab87d9d5efc9a12f8d0b178ca58d731391b7d",
+        "boundary": "aa899d2a7ac7e36448477eadabb8bb90d53e36bc338c604ec3ea88b9c95eb295",
+        "labels": "e244919e0a909974e1a6084d73fbc2ea5d22b892c96fd7fd841f92617804041b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 218,
+      "valid_flow_sections": 227,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_031",
+      "source_group": "VMR_IMAGE_0034",
+      "nodes": 216,
+      "edges": 215,
+      "phases": 64,
+      "label_path": "data/cases/aorta_031/labels.npz",
+      "raw_file_sha256": {
+        "graph": "4ca83a9176f7811d5df8f3effbc1eef3f98cd2fef395293c463aebcfe25331a0",
+        "boundary": "1b35405d303bfbd135dfff52cf22d0966b1803bc877a4912edba093637eb8c75",
+        "labels": "4cafcf049aba332c3184dc31066af3a96422fc2509954475e0b6b944aeafd449"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 157,
+      "valid_flow_sections": 167,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_032",
+      "source_group": "VMR_IMAGE_0034",
+      "nodes": 215,
+      "edges": 214,
+      "phases": 64,
+      "label_path": "data/cases/aorta_032/labels.npz",
+      "raw_file_sha256": {
+        "graph": "79e07c53acbd1242609dae7da7d76f326aa0a4ab33dc825bf2c1d49cd9f3323e",
+        "boundary": "badbec9e836ae6b6b5e3414c73f9505c09dea9c60d9edccfeb8cea7906f493fc",
+        "labels": "db489e58b4d3cfde38f6bf223a83616d61aa26a83521d669c0586e57ab020d95"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 153,
+      "valid_flow_sections": 160,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_033",
+      "source_group": "VMR_IMAGE_0045",
+      "nodes": 273,
+      "edges": 272,
+      "phases": 64,
+      "label_path": "data/cases/aorta_033/labels.npz",
+      "raw_file_sha256": {
+        "graph": "0add5ced3eb912fdcad791d4cf45e509e101c96af8cf83a3244cfda9971ac775",
+        "boundary": "e7712e5036087fe59e3533a81b56628614959e715c7b5362a5d0ad54c1469004",
+        "labels": "3c29311adb58b5120957a352e8087e5c78e1ee714be8e08c39e3ef9ff67cadd2"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 214,
+      "valid_flow_sections": 223,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_037",
+      "source_group": "VMR_IMAGE_0039",
+      "nodes": 249,
+      "edges": 248,
+      "phases": 64,
+      "label_path": "data/cases/aorta_037/labels.npz",
+      "raw_file_sha256": {
+        "graph": "05aa77eb389a612642aaa19ded799c6e9698039466a289257a45d04702acfa16",
+        "boundary": "ea44bbeb69668f121be5a9cde3579f1b53161af7656ab01e2d9cb5fb09338dc9",
+        "labels": "94f524b6311deaf9740836089edd3842f897fb53a1dd1412faa26bbd72b5d27b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 193,
+      "valid_flow_sections": 198,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_041",
+      "source_group": "VMR_IMAGE_0043",
+      "nodes": 264,
+      "edges": 263,
+      "phases": 64,
+      "label_path": "data/cases/aorta_041/labels.npz",
+      "raw_file_sha256": {
+        "graph": "70a6ceb22b3e142117ecde60afbbef15b2f983592555b45bd9729671161a86c3",
+        "boundary": "3b9b9425fe431f7d4138882a471dbf5e628a8d15797dd115a9676de8a5230f80",
+        "labels": "fec09c617942b5999fed02956f22a7bba920231030569e6abe59ef54a3a1f19b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 200,
+      "valid_flow_sections": 209,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_042",
+      "source_group": "VMR_IMAGE_0141",
+      "nodes": 101,
+      "edges": 100,
+      "phases": 64,
+      "label_path": "data/cases/aorta_042/labels.npz",
+      "raw_file_sha256": {
+        "graph": "266bda22ad561cc1b4cfae5d8d4962bcd7013206a9e69b495b3589d14e972c0f",
+        "boundary": "dceeffe944cfb7cad7328fe4d62b7372cab324ddb89d1b0f8972240ecc6b134d",
+        "labels": "fb81b2fcb5090f02caa0a7b25f6ae93403f2840f4e5fa94c9804a22b425cefa5"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 67,
+      "valid_flow_sections": 70,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_043",
+      "source_group": "VMR_IMAGE_0188",
+      "nodes": 71,
+      "edges": 70,
+      "phases": 64,
+      "label_path": "data/cases/aorta_043/labels.npz",
+      "raw_file_sha256": {
+        "graph": "867a8c4c9adb7c11074663fb44767bc26b02a06f5a345c4cd5c0f96296c8424e",
+        "boundary": "43c3cead77d5a178c26a992a8532723e3d9b7f1997361a394c76b5bfd2447972",
+        "labels": "575af1974fbd24be10914570822d5c021c1ec82d746563d2a11fd5e5ab7ee9be"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 47,
+      "valid_flow_sections": 51,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_044",
+      "source_group": "VMR_IMAGE_0070",
+      "nodes": 78,
+      "edges": 77,
+      "phases": 64,
+      "label_path": "data/cases/aorta_044/labels.npz",
+      "raw_file_sha256": {
+        "graph": "0123fe3610ad7446e9fc566455cf524f74d497b04f4423f254049e91b0d6f3f4",
+        "boundary": "0fa1212265bac26e25ef4244e0d6de7615052246fd1d29d3ec9188b478ab59ab",
+        "labels": "fcadcdba38a3f9c95fe025c8dfee06d87b815f5e1e044124f36af8a5fe5318f8"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 62,
+      "valid_flow_sections": 64,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_045",
+      "source_group": "VMR_IMAGE_0049",
+      "nodes": 412,
+      "edges": 411,
+      "phases": 64,
+      "label_path": "data/cases/aorta_045/labels.npz",
+      "raw_file_sha256": {
+        "graph": "05a24c5558427c59289e24a2cecea5c17004cf518211c8362d9b9b0809694e3f",
+        "boundary": "a5f6c4bf74a63b9ddbe8c02b5de78f2b2239d9a1d6b3c43e042cb4073fc553b7",
+        "labels": "a2cf21c3f3b665ab50be6dbabf5ceeb0e5a00150039f84fe11f10254881801fb"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 281,
+      "valid_flow_sections": 296,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_046",
+      "source_group": "VMR_IMAGE_0067",
+      "nodes": 72,
+      "edges": 71,
+      "phases": 64,
+      "label_path": "data/cases/aorta_046/labels.npz",
+      "raw_file_sha256": {
+        "graph": "cbd720df344d0f32a3fb0756e9b4651988162924d383b937b4bb30bc2f1aeaf1",
+        "boundary": "f75b231e1cc18b65062e45ccd90cd8660096d36cfd66696319e9c921434d83d5",
+        "labels": "36ed090e61c33693212d24a6fee43507f8b0949ed2620310646ba2b24a852a02"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 44,
+      "valid_flow_sections": 47,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_047",
+      "source_group": "VMR_IMAGE_0075",
+      "nodes": 122,
+      "edges": 121,
+      "phases": 64,
+      "label_path": "data/cases/aorta_047/labels.npz",
+      "raw_file_sha256": {
+        "graph": "9e2649dd62fc1bb0236e441c9a8cd03ff8e1a1858485028f345048becbd5d292",
+        "boundary": "e09eb064bf061fa97957a63999f1418440c209c8b12b999816b82ec6045f82ee",
+        "labels": "eafa1d7c07a99e8ff805ec5fcbc4d7889dbfddc393921be76e338410beea09c2"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 94,
+      "valid_flow_sections": 95,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_048",
+      "source_group": "VMR_IMAGE_0071",
+      "nodes": 87,
+      "edges": 86,
+      "phases": 64,
+      "label_path": "data/cases/aorta_048/labels.npz",
+      "raw_file_sha256": {
+        "graph": "c18ab8bf28d387dc81805c7a49f6293013dd1a18107e5a70a53beff9bd2e36b9",
+        "boundary": "dbb9f07cb78f374a9dea70fd60202c3a6c99d731a7808040ee47f8eeb504c2e0",
+        "labels": "86235a67a37765bfdab2f343ffebf5dceef0f6acc1c83c3460240d80e173b16a"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 68,
+      "valid_flow_sections": 71,
+      "local_flow_sections": 2
+    },
+    {
+      "case_id": "aorta_049",
+      "source_group": "VMR_IMAGE_0074",
+      "nodes": 95,
+      "edges": 94,
+      "phases": 64,
+      "label_path": "data/cases/aorta_049/labels.npz",
+      "raw_file_sha256": {
+        "graph": "c88787dfa2d455100c047d0cc80a1f35b1ec4e26d19eef548ac65ed06e36ab89",
+        "boundary": "ccec26b5ba019d95f55ecd3526fc325900217b7ddaffabc17a0f94aaca7127e2",
+        "labels": "109f56c0e256abab8ea59919622724362015220303545b21276a74351302d686"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 72,
+      "valid_flow_sections": 74,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_050",
+      "source_group": "VMR_IMAGE_0075",
+      "nodes": 122,
+      "edges": 121,
+      "phases": 64,
+      "label_path": "data/cases/aorta_050/labels.npz",
+      "raw_file_sha256": {
+        "graph": "f157d68d7016aeb723f06ff90bfe4398810751040e76e32d1cb4812130be830b",
+        "boundary": "0e664c8decd4a76e5c52e0abe263a237de7f97b87ac63698b5f468629d6a0f17",
+        "labels": "6604025a858b4e2e65ca52b2c59e6b1087ea315c3fbdec929026b981922aa21a"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 94,
+      "valid_flow_sections": 95,
+      "local_flow_sections": 2
+    },
+    {
+      "case_id": "aorta_052",
+      "source_group": "VMR_IMAGE_0143",
+      "nodes": 95,
+      "edges": 94,
+      "phases": 64,
+      "label_path": "data/cases/aorta_052/labels.npz",
+      "raw_file_sha256": {
+        "graph": "7a611aaf8ca951c9e26e0fc9d1e74af84e68d836615f0e2dc274b2467b12b589",
+        "boundary": "2d019c1f00a8d7913eeffc8aea32caa8d9aaf7672f679d5ebacdd96e9b7ebeaf",
+        "labels": "156f315b2534fc385acdab607fc23d6a4177771ae64fce49d41f4204680941c3"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 76,
+      "valid_flow_sections": 79,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_053",
+      "source_group": "VMR_IMAGE_0145",
+      "nodes": 79,
+      "edges": 78,
+      "phases": 64,
+      "label_path": "data/cases/aorta_053/labels.npz",
+      "raw_file_sha256": {
+        "graph": "4b757568f7deef4d9af7849bff8798d019c10fa73d1fb721d182722a72dddbce",
+        "boundary": "cf1282a6e85e70edd5c685d85e96db76b6a14ea7a76067a18a851583af6925bc",
+        "labels": "17b409791ee31fba9661e6ada9cee8c15126ee15a0f82666a284b31e112fcdfe"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 58,
+      "valid_flow_sections": 59,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_054",
+      "source_group": "VMR_IMAGE_0180",
+      "nodes": 77,
+      "edges": 76,
+      "phases": 64,
+      "label_path": "data/cases/aorta_054/labels.npz",
+      "raw_file_sha256": {
+        "graph": "5d391f0517be1c8968f772a70d7b1fcfd11a4eedd5588cda91a92478b0197048",
+        "boundary": "c9cd528a1f516828d7f793d2db63c0a4f6654406bf98df1aee8e2cc974949ec6",
+        "labels": "a43724c7bca8950c48fc74d01ddecbbd3dbe6ce025027fbe1120d40b89d13a21"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 54,
+      "valid_flow_sections": 57,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_056",
+      "source_group": "VMR_IMAGE_0150",
+      "nodes": 77,
+      "edges": 76,
+      "phases": 64,
+      "label_path": "data/cases/aorta_056/labels.npz",
+      "raw_file_sha256": {
+        "graph": "7c9f527712c17d8808077acd4ba0a6c659211a4f09258b641d83d35c287b88ff",
+        "boundary": "b2c7a901d68f33e6f29399a7fc1296bec6cd1dba91d11ce075e78e955cd9865f",
+        "labels": "8070dfe29b1998b4e0bd5bf144d7d925508650fb2e3d10549dee57ca1958b7ba"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 59,
+      "valid_flow_sections": 59,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_057",
+      "source_group": "VMR_IMAGE_0146",
+      "nodes": 84,
+      "edges": 83,
+      "phases": 64,
+      "label_path": "data/cases/aorta_057/labels.npz",
+      "raw_file_sha256": {
+        "graph": "a55774220a882d422202f50ac3434c29a35701efe9a703dfa46fbef9c7c403fa",
+        "boundary": "03fd822fd572acdc83f6912a08d0a80a1384869c26f5fcd88519d34e62814315",
+        "labels": "726a399dd9f16112f2ae5f66b500c7ad85fd487b13aab00bdfff2ba83e678b0b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 66,
+      "valid_flow_sections": 67,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_058",
+      "source_group": "VMR_IMAGE_0148",
+      "nodes": 106,
+      "edges": 105,
+      "phases": 64,
+      "label_path": "data/cases/aorta_058/labels.npz",
+      "raw_file_sha256": {
+        "graph": "3df62828c3017321df9c931cde531fbaeb89ffa87aeaac226834cce035cefc79",
+        "boundary": "c901f5fd99e24952b0a6ab0112a2ea4e38e0b6e16a2c50a86e7062ce77d46ed5",
+        "labels": "7ce2a5d95e9925d2ee8a58ef7661415c81e75e3ab6eed4f298f7c39a7ac761ab"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 87,
+      "valid_flow_sections": 88,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_059",
+      "source_group": "VMR_IMAGE_0149",
+      "nodes": 119,
+      "edges": 118,
+      "phases": 64,
+      "label_path": "data/cases/aorta_059/labels.npz",
+      "raw_file_sha256": {
+        "graph": "1f2f7b6e0a180b6d0f8df8aab7b884335b4a89336ee406e28b8a91c883dc88e2",
+        "boundary": "e5d8659199afdc3ca25aee0e17c9eb600d2b0ef91fec8ef2db5bfd2ad268f8fe",
+        "labels": "9178584b9d8a13fe0f0af3159f5a4e23ac4f22d51f017e565038eeff5344055b"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 100,
+      "valid_flow_sections": 101,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_060",
+      "source_group": "VMR_IMAGE_0150",
+      "nodes": 76,
+      "edges": 75,
+      "phases": 64,
+      "label_path": "data/cases/aorta_060/labels.npz",
+      "raw_file_sha256": {
+        "graph": "d4fcca0f963fe7c271960363126b285e699b069984e00eb6b47ace8a2fd76b70",
+        "boundary": "2b6e6da802aea75e980e6321ec87b3225d34c0a47f51ddf3b6d04f5396da6f94",
+        "labels": "177823cc59b3c37233c87ecf570aa8c87634ec48e98ce0bcb0e86284b9ffe479"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 56,
+      "valid_flow_sections": 60,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_062",
+      "source_group": "VMR_IMAGE_0152",
+      "nodes": 105,
+      "edges": 104,
+      "phases": 64,
+      "label_path": "data/cases/aorta_062/labels.npz",
+      "raw_file_sha256": {
+        "graph": "d2434ba800320ff97d085b0a87ad36c8b4de2065215c594b7d5945e947e4663d",
+        "boundary": "e7703a69fd2de2018fe1268d569a031a1fe3ca593232579452dd9b53191845a9",
+        "labels": "7287ffcdca7c714d91d70ed2f4fa0a9a16fb22721a7b7c6f7a23d3e51ceba360"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 84,
+      "valid_flow_sections": 86,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_063",
+      "source_group": "VMR_IMAGE_0153",
+      "nodes": 148,
+      "edges": 147,
+      "phases": 64,
+      "label_path": "data/cases/aorta_063/labels.npz",
+      "raw_file_sha256": {
+        "graph": "f5f1c04a0546af3e5b570587aada3f3b9a0a7083db23b71eb61b9b01b902ae72",
+        "boundary": "0864eef904b6cd2722c5d23d6bbec3ffdbe14e7309a9f61d33dfa271192b60ad",
+        "labels": "912113e17e27eb2ee3f33285558fc98ef1fe880cb36aad6ae95fc4a741f312b5"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 123,
+      "valid_flow_sections": 125,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_068",
+      "source_group": "VMR_IMAGE_0183",
+      "nodes": 53,
+      "edges": 52,
+      "phases": 64,
+      "label_path": "data/cases/aorta_068/labels.npz",
+      "raw_file_sha256": {
+        "graph": "d0948f060fac4a88b060c21c36c980a9ede52bd8b16520be883cbf35cea0b376",
+        "boundary": "9201bea52d2b398ffc6dfa8892679e16264555d81ce73c3bb0c17f2f0d3d0404",
+        "labels": "89b0d5b9a4338d6b1e75b829d9f0649860265f402321b97449b19e95d3062f18"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 30,
+      "valid_flow_sections": 31,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_069",
+      "source_group": "VMR_IMAGE_0179",
+      "nodes": 124,
+      "edges": 123,
+      "phases": 64,
+      "label_path": "data/cases/aorta_069/labels.npz",
+      "raw_file_sha256": {
+        "graph": "199a5a66b86c073b16819ed239be8c0ea3ee75de86f3a10d067c7a3cd02d7f51",
+        "boundary": "af7d4c0e07a8425e24c40c5e72486c299a283c18959f31b73e2fef179e43310a",
+        "labels": "9c227e3fec94e010703ac0e66af74e571313fa5e4df024f4317d213e28ef8f33"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 91,
+      "valid_flow_sections": 93,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_070",
+      "source_group": "VMR_IMAGE_0185",
+      "nodes": 72,
+      "edges": 71,
+      "phases": 64,
+      "label_path": "data/cases/aorta_070/labels.npz",
+      "raw_file_sha256": {
+        "graph": "62eca4aa39c7abaf80d41c6b0fa7f7d14cd9c10ccfe58f95433da3d5ec439ba0",
+        "boundary": "d4ad89cc65792e95f134ca58f760b643976e6cdf18b0801806ccd75857a53fa2",
+        "labels": "e1480d5fcb8362563e18ffd5f572bafaab08ebabad4ae73dffafb83d624950d1"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 43,
+      "valid_flow_sections": 45,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_071",
+      "source_group": "VMR_IMAGE_0182",
+      "nodes": 50,
+      "edges": 49,
+      "phases": 64,
+      "label_path": "data/cases/aorta_071/labels.npz",
+      "raw_file_sha256": {
+        "graph": "1a784056c2c75132eb8e3090502e81ccb4f59749ebc99e2ed26a37a6edb35f39",
+        "boundary": "09e123d96d803ef6c01f2a92cb928b261e07ca86e3404a2ee6f188592c24bfea",
+        "labels": "fc12183607033dadfad037ee35bd29e8779c39cd397c4ec0d8c1ef50e009cddb"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 28,
+      "valid_flow_sections": 29,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_072",
+      "source_group": "VMR_IMAGE_0187",
+      "nodes": 79,
+      "edges": 78,
+      "phases": 64,
+      "label_path": "data/cases/aorta_072/labels.npz",
+      "raw_file_sha256": {
+        "graph": "d6deb1332e069cb05ef3d6f02be7699a73174956826351553724710e7b2d9ae7",
+        "boundary": "c8611991b5fceb58e8ac1b756da8754d6bf08b1e56b86415b5c2f0fc5b912dfc",
+        "labels": "8d0e0acbe0ae1ec3cabc53b9697d136ecdfd8fba4438d3f34744847d7a584dfd"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 49,
+      "valid_flow_sections": 49,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_076",
+      "source_group": "VMR_IMAGE_0227",
+      "nodes": 75,
+      "edges": 74,
+      "phases": 64,
+      "label_path": "data/cases/aorta_076/labels.npz",
+      "raw_file_sha256": {
+        "graph": "cb0133433f74741f92ea681cd4aafe1347ad975669ba906a2f637d14565b8d44",
+        "boundary": "a1cf9c55ec01313648c0bef44a9044b50ff02bc0ef0a5e97e4a8c2e449b29cee",
+        "labels": "40b5df842b1efdeb778918c505aa11d28a5ae978fad5cdafe310e596d55a613c"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 61,
+      "valid_flow_sections": 62,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_077",
+      "source_group": "VMR_IMAGE_0191",
+      "nodes": 115,
+      "edges": 114,
+      "phases": 64,
+      "label_path": "data/cases/aorta_077/labels.npz",
+      "raw_file_sha256": {
+        "graph": "78de573f6b37cb01caa8d76dd7dc4ee9e77673f4c4a487ed904a89731a14984b",
+        "boundary": "423d36ec9e7ead5d9d973a79b8c5ecadb80a191252fe9cf09f35484428265ac1",
+        "labels": "32e6738d98df0a035576ef0eb21af10941d44e879690a1603322cb03d8f0921a"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 88,
+      "valid_flow_sections": 88,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_078",
+      "source_group": "VMR_IMAGE_0196",
+      "nodes": 130,
+      "edges": 129,
+      "phases": 64,
+      "label_path": "data/cases/aorta_078/labels.npz",
+      "raw_file_sha256": {
+        "graph": "7cee3065c416aaa5b28ec184d5aa621c1e22009c387f9d2c4b2135269e6ff74d",
+        "boundary": "45e7648a94d3a375421830586001014ea8c0da90f9045ba6f589f73b51bbc953",
+        "labels": "e36940c0be1fad0fa1c69afb5cc9aa51bd07cad67e2f3b89b82eb459315ba49a"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 99,
+      "valid_flow_sections": 101,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_080",
+      "source_group": "VMR_IMAGE_0197",
+      "nodes": 92,
+      "edges": 91,
+      "phases": 64,
+      "label_path": "data/cases/aorta_080/labels.npz",
+      "raw_file_sha256": {
+        "graph": "7fcb5ecd6fb229b8fe5c61b42c735a19671ddb5debd5dfa151e5dd81549755bb",
+        "boundary": "c5f352d4b436504f15407fd9205882599b739aba38c7aed6720ae687a9052a36",
+        "labels": "5c212ba7e03dea93d87b1c8cba17de7f1a3ad42a4eec452cd70bd3f3f73b166c"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 56,
+      "valid_flow_sections": 56,
+      "local_flow_sections": 2
+    },
+    {
+      "case_id": "aorta_081",
+      "source_group": "VMR_IMAGE_0198",
+      "nodes": 82,
+      "edges": 81,
+      "phases": 64,
+      "label_path": "data/cases/aorta_081/labels.npz",
+      "raw_file_sha256": {
+        "graph": "3e602f32f3ddcb6adc7e0ac9cff7230638f1f31f058b6e5e392b6b8a5166fbc3",
+        "boundary": "6af71c3aec71cb02462c304ce16bf8e4740ed7245c319e4054ce7165c7ea4518",
+        "labels": "f0722caf2e26dfd666abcb5a0f939e244ea9d560f99bb4487b9464b201e6659f"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 61,
+      "valid_flow_sections": 61,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_082",
+      "source_group": "VMR_IMAGE_0230",
+      "nodes": 73,
+      "edges": 72,
+      "phases": 64,
+      "label_path": "data/cases/aorta_082/labels.npz",
+      "raw_file_sha256": {
+        "graph": "958f3102cd04f7ce38621b53eaae699700cd4e5d34019af403a4e22f9ada25fb",
+        "boundary": "a74ca2eea47199a011ad637a4e77e50ccaaa2450297aa49c271eccb9dbd4d7d1",
+        "labels": "b45b007763b3e21f774c8b37af78c07c0bb637b0264a6b86a437c7e310fe87dd"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 52,
+      "valid_flow_sections": 55,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_083",
+      "source_group": "VMR_IMAGE_0231",
+      "nodes": 86,
+      "edges": 85,
+      "phases": 64,
+      "label_path": "data/cases/aorta_083/labels.npz",
+      "raw_file_sha256": {
+        "graph": "e201da38c0ed1cc5917ba79143a0b955d0813d1348008a69f412cafed546008b",
+        "boundary": "7e96cd03ba334e3e3e508991f3016967da2ff12aa8e052a1aab9fcce0ee98834",
+        "labels": "716dff6e0d1456990211e13273b3830e78f5ab8938464fd17521cc2a02e3543c"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 64,
+      "valid_flow_sections": 67,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_084",
+      "source_group": "VMR_IMAGE_0232",
+      "nodes": 99,
+      "edges": 98,
+      "phases": 64,
+      "label_path": "data/cases/aorta_084/labels.npz",
+      "raw_file_sha256": {
+        "graph": "bcb6ae754d71df2f61265c491853fa30b61daa929d0f8c5ce5c2fe950fdd1d90",
+        "boundary": "fae4cc58b60e201b88698e7aa1b03a761fd6ae0c095d07579b89c0a6a1f1177e",
+        "labels": "2a7c0f38222bbeda577a15652e388e9e403bd34852dfeea016b111e5c64a56c4"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 77,
+      "valid_flow_sections": 78,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_085",
+      "source_group": "VMR_IMAGE_0233",
+      "nodes": 86,
+      "edges": 85,
+      "phases": 64,
+      "label_path": "data/cases/aorta_085/labels.npz",
+      "raw_file_sha256": {
+        "graph": "6e08b2bc30247998848c4ac377ef3da2dd84d9a575d215c2000469859a641f36",
+        "boundary": "da04d84db052bd93657d4524bdb8f5c847da19556f1de31190fac0ed04924b82",
+        "labels": "0f749a0844ee076257137ebc2015aa28ece3e93143f8c4e9b34d50b6063f567d"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 62,
+      "valid_flow_sections": 65,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_087",
+      "source_group": "VMR_IMAGE_0235",
+      "nodes": 82,
+      "edges": 81,
+      "phases": 64,
+      "label_path": "data/cases/aorta_087/labels.npz",
+      "raw_file_sha256": {
+        "graph": "a54ef3dc1ef2def379097c497ce33eab0fb022a4312c0f22bc903cfdf76a7a55",
+        "boundary": "59152fcdadb91028dd168f61c88fdd043a55332ac4c4800a011829ebf59bae38",
+        "labels": "7408098eeaf44cfb37b09da1f55fede81bb7e4a18b3c134c46a2328848640f69"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 62,
+      "valid_flow_sections": 62,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_088",
+      "source_group": "VMR_IMAGE_0236",
+      "nodes": 96,
+      "edges": 95,
+      "phases": 64,
+      "label_path": "data/cases/aorta_088/labels.npz",
+      "raw_file_sha256": {
+        "graph": "2d535b0eb74ae8d71729057bf3e5c1ebf06853d6ba892bdd09248a9b77fbd78d",
+        "boundary": "088de457f5a141669b85f49bf22c07ac66671127d56de414007614710a7ec048",
+        "labels": "cb5dbbd187cfda47338c70348703eefd3dbf0a73d1b3cf6672b6e09c5111f420"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 77,
+      "valid_flow_sections": 78,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_089",
+      "source_group": "VMR_IMAGE_0237",
+      "nodes": 78,
+      "edges": 77,
+      "phases": 64,
+      "label_path": "data/cases/aorta_089/labels.npz",
+      "raw_file_sha256": {
+        "graph": "a247d3c533519f0765aaf296e5326fa14dee60ee8a242f5e265a25a4f58ec1d3",
+        "boundary": "0f62297a2c06cebbdf5c606b74e7501a15b32ea2d20ee135cf53c376b2e4bab7",
+        "labels": "57baf4dae5fda502583e4722790db0c4b75612b5b3b91fcce6a5896382577668"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 60,
+      "valid_flow_sections": 61,
+      "local_flow_sections": 1
+    },
+    {
+      "case_id": "aorta_090",
+      "source_group": "VMR_IMAGE_0238",
+      "nodes": 84,
+      "edges": 83,
+      "phases": 64,
+      "label_path": "data/cases/aorta_090/labels.npz",
+      "raw_file_sha256": {
+        "graph": "915840a9ea2088444c39e240e39f98a72bd6900ab1f9938b55e8658d422209d4",
+        "boundary": "ab95c98e61763abac866d50e44b156033873027f7e628c6a9c275d3f4117748b",
+        "labels": "fde32315ac1db11eac12aa82cd5e9e851de2b1f663253a961cc106eb0e879fbd"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 65,
+      "valid_flow_sections": 63,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_091",
+      "source_group": "VMR_IMAGE_0228",
+      "nodes": 79,
+      "edges": 78,
+      "phases": 64,
+      "label_path": "data/cases/aorta_091/labels.npz",
+      "raw_file_sha256": {
+        "graph": "cd338de6757c31cd8a5c5ade59ee01ad0b244f230dfda4ac43da6220b8d16105",
+        "boundary": "4246c5d2a662ba2dd37c268e229a43c1a6726d42aded0b038007e17d91be4739",
+        "labels": "f52802055d64c6bb4f0ada99167038fe250ba9369c176e696e58da1cdb2dc9fa"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 56,
+      "valid_flow_sections": 60,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_092",
+      "source_group": "VMR_IMAGE_0240",
+      "nodes": 88,
+      "edges": 87,
+      "phases": 64,
+      "label_path": "data/cases/aorta_092/labels.npz",
+      "raw_file_sha256": {
+        "graph": "5c8bc2333bde9c78c6f8ff6e2b93aa15d031f08d1a8b08406fb94b09b58d6ad2",
+        "boundary": "ff3dca369a07a6474337c3260fa30765903bd57f19820d82900071b90bdbacbb",
+        "labels": "1fc2dfb826553c8deefda0320a4708135810e4d88d596e2ef14d959f379cc6fb"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 66,
+      "valid_flow_sections": 67,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_093",
+      "source_group": "VMR_IMAGE_0241",
+      "nodes": 68,
+      "edges": 67,
+      "phases": 64,
+      "label_path": "data/cases/aorta_093/labels.npz",
+      "raw_file_sha256": {
+        "graph": "38ca2f5bfe2961ee61bbf09755f554cab6e3a29a7d54021d94e48929c570990c",
+        "boundary": "d3e7649dd6662a7fc96c8bc118805ae5900b066e87a4b28412be373880ed8391",
+        "labels": "5f20e5e9f2e466bc6aa8e093ce50d677ef6142cd771bb21110a68e7aa89e3cb6"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 51,
+      "valid_flow_sections": 51,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_094",
+      "source_group": "VMR_IMAGE_0188",
+      "nodes": 71,
+      "edges": 70,
+      "phases": 64,
+      "label_path": "data/cases/aorta_094/labels.npz",
+      "raw_file_sha256": {
+        "graph": "5a7e68e81077b3e7f0b9b8373b7fa9aee56288a818dc5cbf87c9be24bcb8ab52",
+        "boundary": "bdfbc41d49059177e8bab241c6e9f24c7a49150a90df417ae76ccdcc68420eb7",
+        "labels": "88085c95138838ba33c1000f50b6e6abb81579188ee4147a8963ca6ae42c586d"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 49,
+      "valid_flow_sections": 51,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_095",
+      "source_group": "VMR_IMAGE_0240",
+      "nodes": 89,
+      "edges": 88,
+      "phases": 64,
+      "label_path": "data/cases/aorta_095/labels.npz",
+      "raw_file_sha256": {
+        "graph": "cd17a48cefb6262d01e93f5888bcacb6c1f602c79efe149569f77b8f71ca22f6",
+        "boundary": "b5b556ccc2ab47c8a17386fd330281a05fa2a6148b983b557046dc7eb6aaa67c",
+        "labels": "1bb93f5a0079dcf31966a686d2f7748215a8cbe27633cf2cf83612096bf84362"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 67,
+      "valid_flow_sections": 68,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_096",
+      "source_group": "VMR_IMAGE_0189",
+      "nodes": 87,
+      "edges": 86,
+      "phases": 64,
+      "label_path": "data/cases/aorta_096/labels.npz",
+      "raw_file_sha256": {
+        "graph": "572cd7e407b57d883183c32076699bf63ecf9cd133063abb438fcf218c52e879",
+        "boundary": "c5847f6a5b8d89017edde8fd88599dfcaae495c54a0d6dc7fb0ec83ade60bf81",
+        "labels": "c7c3d1b390aedf06c9d78e27054bfc4850a343047343176859eccc6c8903b19a"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 59,
+      "valid_flow_sections": 59,
+      "local_flow_sections": 2
+    },
+    {
+      "case_id": "aorta_097",
+      "source_group": "VMR_IMAGE_0228",
+      "nodes": 78,
+      "edges": 77,
+      "phases": 64,
+      "label_path": "data/cases/aorta_097/labels.npz",
+      "raw_file_sha256": {
+        "graph": "6c931c34aa0f31827c46e0cbe04f75d23fdc357a4fc6a6e7ef23abf8e6f03998",
+        "boundary": "1bd996ac38c1b3f27acfc46fa0ca210ee5e87753b3b93a240bb8041daa9df6ae",
+        "labels": "cfdd568829bb273af67d7bc895232814762f7d33547f4aca32a6b863255547e8"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 57,
+      "valid_flow_sections": 58,
+      "local_flow_sections": 0
+    },
+    {
+      "case_id": "aorta_098",
+      "source_group": "VMR_IMAGE_0142",
+      "nodes": 89,
+      "edges": 88,
+      "phases": 64,
+      "label_path": "data/cases/aorta_098/labels.npz",
+      "raw_file_sha256": {
+        "graph": "0a94c98781436c3302372d90aa1171ce50c717a7078c5dfaf68fad2678e420b3",
+        "boundary": "2992ae0cc9e7075f6306d68a8299cbcbd38e3c5847128d4167afe74c3b7bb6bb",
+        "labels": "972175f9e6dc40b4d7cf534b190ba53ef7d9900c8ef21d3fc4a2bf4dc40b97f2"
+      },
+      "pressure_conversion_dyn_cm2_per_mmHg": 1333.22,
+      "valid_pressure_sections": 70,
+      "valid_flow_sections": 72,
+      "local_flow_sections": 0
+    }
+  ]
+}

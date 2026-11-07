@@ -1,0 +1,35 @@
+PhyTCR Noncommercial Attribution Software License 1.0
+
+Scope
+This license applies to the original PhyTCR-Net software in code/, scripts/
+and examples/. It does not relicense third-party software or VMR material.
+
+Permission
+The copyright holder permits you to use, run, reproduce, modify and share
+this software and your modifications, free of charge, for noncommercial
+purposes only. Noncommercial means not primarily intended for or directed
+towards commercial advantage or monetary compensation. Commercial use is
+not permitted under this license.
+
+Attribution and redistribution
+Retain this license, existing copyright notices, and the credits supplied
+in ATTRIBUTION.md in all redistributed copies or substantial portions of
+the software. Identify modifications and retain the attribution to the
+original software. When reporting work using this software, acknowledge
+PhyTCR-Net and the accompanying dataset or study record. Do not imply
+endorsement by the original creators. Recipients of redistributed copies
+must receive the same noncommercial-use terms for the original software.
+
+Third-party components
+Third-party material and dependencies retain their own terms. This license
+grants rights only in the original software contributions and grants no
+patent or trademark license.
+
+Disclaimer
+The software is provided as is, without warranty of any kind. To the extent
+permitted by applicable law, the copyright holder is not liable for claims
+or damages arising from use of the software. Rights and exceptions that
+apply independently under applicable law are unaffected by these terms.
+
+This is a project-specific noncommercial software license, not the MIT
+license or an OSI-approved open-source license.

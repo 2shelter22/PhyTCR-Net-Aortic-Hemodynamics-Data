@@ -1,0 +1,424 @@
+{
+  "records": [
+    {
+      "case_id": "aorta_002",
+      "source_group": "VMR_IMAGE_0002",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_003",
+      "source_group": "VMR_IMAGE_0003",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_004",
+      "source_group": "VMR_IMAGE_0004",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_005",
+      "source_group": "VMR_IMAGE_0006",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_006",
+      "source_group": "VMR_IMAGE_0007",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_007",
+      "source_group": "VMR_IMAGE_0008",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_008",
+      "source_group": "VMR_IMAGE_0009",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_009",
+      "source_group": "VMR_IMAGE_0010",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_013",
+      "source_group": "VMR_IMAGE_0014",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_015",
+      "source_group": "VMR_IMAGE_0016",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_016",
+      "source_group": "VMR_IMAGE_0017",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_017",
+      "source_group": "VMR_IMAGE_0017",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_018",
+      "source_group": "VMR_IMAGE_0018",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_021",
+      "source_group": "VMR_IMAGE_0022",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_022",
+      "source_group": "VMR_IMAGE_0024",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_024",
+      "source_group": "VMR_IMAGE_0025",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_026",
+      "source_group": "VMR_IMAGE_0028",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_028",
+      "source_group": "VMR_IMAGE_0030",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_029",
+      "source_group": "VMR_IMAGE_0031",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_030",
+      "source_group": "VMR_IMAGE_0033",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_031",
+      "source_group": "VMR_IMAGE_0034",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_032",
+      "source_group": "VMR_IMAGE_0034",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_033",
+      "source_group": "VMR_IMAGE_0045",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_037",
+      "source_group": "VMR_IMAGE_0039",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_041",
+      "source_group": "VMR_IMAGE_0043",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_042",
+      "source_group": "VMR_IMAGE_0141",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_043",
+      "source_group": "VMR_IMAGE_0188",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_044",
+      "source_group": "VMR_IMAGE_0070",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_045",
+      "source_group": "VMR_IMAGE_0049",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_046",
+      "source_group": "VMR_IMAGE_0067",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_047",
+      "source_group": "VMR_IMAGE_0075",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_048",
+      "source_group": "VMR_IMAGE_0071",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_049",
+      "source_group": "VMR_IMAGE_0074",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_050",
+      "source_group": "VMR_IMAGE_0075",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_052",
+      "source_group": "VMR_IMAGE_0143",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_053",
+      "source_group": "VMR_IMAGE_0145",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_054",
+      "source_group": "VMR_IMAGE_0180",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_056",
+      "source_group": "VMR_IMAGE_0150",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_057",
+      "source_group": "VMR_IMAGE_0146",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_058",
+      "source_group": "VMR_IMAGE_0148",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_059",
+      "source_group": "VMR_IMAGE_0149",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_060",
+      "source_group": "VMR_IMAGE_0150",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_062",
+      "source_group": "VMR_IMAGE_0152",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_063",
+      "source_group": "VMR_IMAGE_0153",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_068",
+      "source_group": "VMR_IMAGE_0183",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_069",
+      "source_group": "VMR_IMAGE_0179",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_070",
+      "source_group": "VMR_IMAGE_0185",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_071",
+      "source_group": "VMR_IMAGE_0182",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_072",
+      "source_group": "VMR_IMAGE_0187",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_076",
+      "source_group": "VMR_IMAGE_0227",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_077",
+      "source_group": "VMR_IMAGE_0191",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_078",
+      "source_group": "VMR_IMAGE_0196",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_080",
+      "source_group": "VMR_IMAGE_0197",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_081",
+      "source_group": "VMR_IMAGE_0198",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_082",
+      "source_group": "VMR_IMAGE_0230",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_083",
+      "source_group": "VMR_IMAGE_0231",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_084",
+      "source_group": "VMR_IMAGE_0232",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_085",
+      "source_group": "VMR_IMAGE_0233",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_087",
+      "source_group": "VMR_IMAGE_0235",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_088",
+      "source_group": "VMR_IMAGE_0236",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_089",
+      "source_group": "VMR_IMAGE_0237",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_090",
+      "source_group": "VMR_IMAGE_0238",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_091",
+      "source_group": "VMR_IMAGE_0228",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_092",
+      "source_group": "VMR_IMAGE_0240",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_093",
+      "source_group": "VMR_IMAGE_0241",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_094",
+      "source_group": "VMR_IMAGE_0188",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_095",
+      "source_group": "VMR_IMAGE_0240",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_096",
+      "source_group": "VMR_IMAGE_0189",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_097",
+      "source_group": "VMR_IMAGE_0228",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    },
+    {
+      "case_id": "aorta_098",
+      "source_group": "VMR_IMAGE_0142",
+      "notice": "licenses/VMR/notice_cdee83acc36c86d5.txt",
+      "sha256": "cdee83acc36c86d5a07a40a7fdc056ecdd4c008b3d43dc5a9a5edc60b9fe538c"
+    }
+  ]
+}

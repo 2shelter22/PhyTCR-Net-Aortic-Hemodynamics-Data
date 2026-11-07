@@ -1,0 +1,565 @@
+{
+  "source_repository": "Vascular Model Repository",
+  "cases": [
+    {
+      "case_id": "aorta_002",
+      "source_group": "VMR_IMAGE_0002",
+      "source_model_sha256": "f337091624cffb183e337659aa734f15eacc578d695ae7d5cafe6968ed9f3865",
+      "source_archive_id": "0002_H_AO_SVD",
+      "source_archive_name": "0002_H_AO_SVD",
+      "source_url": "https://purl.stanford.edu/bj868pn2013"
+    },
+    {
+      "case_id": "aorta_003",
+      "source_group": "VMR_IMAGE_0003",
+      "source_model_sha256": "2c6aef2fbebf125bdd7aedb43ecd290e06549b5af7db5a08ba65e1bbc35e0ccd",
+      "source_archive_id": "0003_H_AO_SVD",
+      "source_archive_name": "0003_H_AO_SVD",
+      "source_url": "https://purl.stanford.edu/xw295vv7128"
+    },
+    {
+      "case_id": "aorta_004",
+      "source_group": "VMR_IMAGE_0004",
+      "source_model_sha256": "95a51040bbdae5e44025a035191ac891ce856723c510459f49b68ce35ae59d3a",
+      "source_archive_id": "0004_H_AO_SVD",
+      "source_archive_name": "0004_H_AO_SVD",
+      "source_url": "https://purl.stanford.edu/sv100pn2892"
+    },
+    {
+      "case_id": "aorta_005",
+      "source_group": "VMR_IMAGE_0006",
+      "source_model_sha256": "d5c3c7a8aed7b28cb5fe8ddbe709f0ac66b890c79d863cd972de8e68be7e2cec",
+      "source_archive_id": "0006_H_AO_SVD",
+      "source_archive_name": "0006_H_AO_SVD",
+      "source_url": "https://purl.stanford.edu/rs261jm2534"
+    },
+    {
+      "case_id": "aorta_006",
+      "source_group": "VMR_IMAGE_0007",
+      "source_model_sha256": "7fa57f163319d43348edf5b8c52fa0f47231a37a16845fd4fee3b36592ad372a",
+      "source_archive_id": "0007_H_AO_H",
+      "source_archive_name": "0007_H_AO_H",
+      "source_url": "https://purl.stanford.edu/zv353hh1281"
+    },
+    {
+      "case_id": "aorta_007",
+      "source_group": "VMR_IMAGE_0008",
+      "source_model_sha256": "bc1f7802eaf9c70bf4cdc6417d2d879aab8b2c165582972a6db6f75bfe5f2392",
+      "source_archive_id": "0008_H_AO_H",
+      "source_archive_name": "0008_H_AO_H",
+      "source_url": "https://purl.stanford.edu/wb108xr3896"
+    },
+    {
+      "case_id": "aorta_008",
+      "source_group": "VMR_IMAGE_0009",
+      "source_model_sha256": "45777b678e154f52533216a2cfb53adfc4d9872c71bd45780bed5b6e44af3c25",
+      "source_archive_id": "0009_H_AO_H",
+      "source_archive_name": "0009_H_AO_H",
+      "source_url": "https://purl.stanford.edu/hq772qt6969"
+    },
+    {
+      "case_id": "aorta_009",
+      "source_group": "VMR_IMAGE_0010",
+      "source_model_sha256": "5f862c1fb6c4fe9542ed3694087e5e503e09fbd9d6181e1bed9a492e909e79a2",
+      "source_archive_id": "0010_H_AO_H",
+      "source_archive_name": "0010_H_AO_H",
+      "source_url": "https://purl.stanford.edu/pn605cz1308"
+    },
+    {
+      "case_id": "aorta_013",
+      "source_group": "VMR_IMAGE_0014",
+      "source_model_sha256": "53ce2daaecb2ad1760b0fd6c4046f2ffa0f074a1756742bde3036dec29c7c197",
+      "source_archive_id": "0014_H_AO_COA",
+      "source_archive_name": "0014_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/bb113pg9082"
+    },
+    {
+      "case_id": "aorta_015",
+      "source_group": "VMR_IMAGE_0016",
+      "source_model_sha256": "3fe8f82ab74d5d19f3074e8625a314baecaeb9a79b44e39a62be0e4f934c5e2d",
+      "source_archive_id": "0016_H_AO_COA",
+      "source_archive_name": "0016_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/yz452hd4943"
+    },
+    {
+      "case_id": "aorta_016",
+      "source_group": "VMR_IMAGE_0017",
+      "source_model_sha256": "d7445da2ca94fb1eb77ecedb8a1c15cf19f76f53c770b0f781d88ddfe66d5072",
+      "source_archive_id": "0017_H_AO_COA",
+      "source_archive_name": "0017_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/xy001jz9004"
+    },
+    {
+      "case_id": "aorta_017",
+      "source_group": "VMR_IMAGE_0017",
+      "source_model_sha256": "d7445da2ca94fb1eb77ecedb8a1c15cf19f76f53c770b0f781d88ddfe66d5072",
+      "source_archive_id": "0017_H_AO_COA",
+      "source_archive_name": "0017_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/xy001jz9004"
+    },
+    {
+      "case_id": "aorta_018",
+      "source_group": "VMR_IMAGE_0018",
+      "source_model_sha256": "c5e0f119fa2e6ae9909ffade13c0626ee315cf3e540ee3d2d0215436fd60612c",
+      "source_archive_id": "0018_H_AO_COA",
+      "source_archive_name": "0018_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/gk193bn4906"
+    },
+    {
+      "case_id": "aorta_021",
+      "source_group": "VMR_IMAGE_0022",
+      "source_model_sha256": "eaa8ef27234e73d8118325be714d45a8441fc3e3a1caec178df94abee69cdc14",
+      "source_archive_id": "0022_H_AO_MFS",
+      "source_archive_name": "0022_H_AO_MFS",
+      "source_url": "https://purl.stanford.edu/vh330cw0379"
+    },
+    {
+      "case_id": "aorta_022",
+      "source_group": "VMR_IMAGE_0024",
+      "source_model_sha256": "230f273c43fb249656b0c5f75af628fceaf8e7fad1abee0edb5afa96035a72c3",
+      "source_archive_id": "0024_H_AO_H",
+      "source_archive_name": "0024_H_AO_H",
+      "source_url": "https://purl.stanford.edu/wd931gj4180"
+    },
+    {
+      "case_id": "aorta_024",
+      "source_group": "VMR_IMAGE_0025",
+      "source_model_sha256": "451ec242da7f75f86a4f99ebcd8fd232749e04efe0d487b64b2d0544c40da41e",
+      "source_archive_id": "0025_H_AO_MFS",
+      "source_archive_name": "0025_H_AO_MFS",
+      "source_url": "https://purl.stanford.edu/fc281yf2572"
+    },
+    {
+      "case_id": "aorta_026",
+      "source_group": "VMR_IMAGE_0028",
+      "source_model_sha256": "15bc0e45a402893baf67ed10ba7ffdf5d91c4911fc8b56826d7fa9442ae6e5af",
+      "source_archive_id": "0028_H_ABAO_H",
+      "source_archive_name": "0028_H_ABAO_H",
+      "source_url": "https://purl.stanford.edu/yf229sh3846"
+    },
+    {
+      "case_id": "aorta_028",
+      "source_group": "VMR_IMAGE_0030",
+      "source_model_sha256": "5c0a07cf3b71bd4e46de9be7824ccef6d53b20448d869c861c2197b6edea9da8",
+      "source_archive_id": "0030_H_ABAO_H",
+      "source_archive_name": "0030_H_ABAO_H",
+      "source_url": "https://purl.stanford.edu/ph191xd6718"
+    },
+    {
+      "case_id": "aorta_029",
+      "source_group": "VMR_IMAGE_0031",
+      "source_model_sha256": "f313e882fde20d74d6724f3ec814a315ae3bf03b43ac30679e670fde2bd1e87e",
+      "source_archive_id": "0031_H_ABAO_AAA",
+      "source_archive_name": "0031_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/nr862gy9188"
+    },
+    {
+      "case_id": "aorta_030",
+      "source_group": "VMR_IMAGE_0033",
+      "source_model_sha256": "1af7e1d5db25513985ca981ffdfcb892421487f895ea3c36fc7336700d19b31c",
+      "source_archive_id": "0033_H_ABAO_AAA",
+      "source_archive_name": "0033_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/ff987bh8208"
+    },
+    {
+      "case_id": "aorta_031",
+      "source_group": "VMR_IMAGE_0034",
+      "source_model_sha256": "6946f6d78e6982138ca9770a2113217d56f17a0b520634efa5abb81425305257",
+      "source_archive_id": "0034_H_ABAO_AAA",
+      "source_archive_name": "0034_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/fv700kq8850"
+    },
+    {
+      "case_id": "aorta_032",
+      "source_group": "VMR_IMAGE_0034",
+      "source_model_sha256": "6946f6d78e6982138ca9770a2113217d56f17a0b520634efa5abb81425305257",
+      "source_archive_id": "0034_H_ABAO_AAA",
+      "source_archive_name": "0034_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/fv700kq8850"
+    },
+    {
+      "case_id": "aorta_033",
+      "source_group": "VMR_IMAGE_0045",
+      "source_model_sha256": "097b19981a14f86e56917ffc2edaecbf495abc5aba450cea29538249220865fd",
+      "source_archive_id": "0045_H_ABAO_AAA",
+      "source_archive_name": "0045_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/wv722sv8756"
+    },
+    {
+      "case_id": "aorta_037",
+      "source_group": "VMR_IMAGE_0039",
+      "source_model_sha256": "a1d3cb309f15bc16386e751f6af92ede08427bf58570f462aaa71d5ca0f42d7f",
+      "source_archive_id": "0039_H_ABAO_AAA",
+      "source_archive_name": "0039_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/pv012pg9476"
+    },
+    {
+      "case_id": "aorta_041",
+      "source_group": "VMR_IMAGE_0043",
+      "source_model_sha256": "7a7ee74ebdcb30181dd8bfa6fff8e40a018abd59a5e96262805d766b9cf95f07",
+      "source_archive_id": "0043_H_ABAO_AAA",
+      "source_archive_name": "0043_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/cd454hh1664"
+    },
+    {
+      "case_id": "aorta_042",
+      "source_group": "VMR_IMAGE_0141",
+      "source_model_sha256": "c1498541c844cea68f3b51fb9704d9377cfdb939491653f0e0b6bd36f99d3852",
+      "source_archive_id": "0141_H_AO_H",
+      "source_archive_name": "0141_H_AO_H",
+      "source_url": "https://purl.stanford.edu/bs022pb3542"
+    },
+    {
+      "case_id": "aorta_043",
+      "source_group": "VMR_IMAGE_0188",
+      "source_model_sha256": "9f22b95b7ecd0a649304957073935ec3b5eda6027eee4d3e895457166be21675",
+      "source_archive_id": "0188_H_ABAO_AAA",
+      "source_archive_name": "0188_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/hv434rx1492"
+    },
+    {
+      "case_id": "aorta_044",
+      "source_group": "VMR_IMAGE_0070",
+      "source_model_sha256": "06f900da4d7e9a750c07c8db6fb8c51c90cb0b0fd7f5c2aeb452e58e54161a7b",
+      "source_archive_id": "0070_H_AO_H",
+      "source_archive_name": "0070_H_AO_H",
+      "source_url": "https://purl.stanford.edu/ss716yh9358"
+    },
+    {
+      "case_id": "aorta_045",
+      "source_group": "VMR_IMAGE_0049",
+      "source_model_sha256": "7cda565d702d05f059420390a94a820e209607f8a0f0b5341028b83e1caa5976",
+      "source_archive_id": "0049_H_ABAO_AIOD",
+      "source_archive_name": "0049_H_ABAO_AIOD",
+      "source_url": "https://purl.stanford.edu/mf216dt4091"
+    },
+    {
+      "case_id": "aorta_046",
+      "source_group": "VMR_IMAGE_0067",
+      "source_model_sha256": "e27636dcfc302f111d54093dd39ad5714f1944d19a09fe31f0069c200daaa36a",
+      "source_archive_id": "0067_H_AO_H",
+      "source_archive_name": "0067_H_AO_H",
+      "source_url": "https://purl.stanford.edu/hy568jy5161"
+    },
+    {
+      "case_id": "aorta_047",
+      "source_group": "VMR_IMAGE_0075",
+      "source_model_sha256": "99b4ad078366f72d74cb1c65eccb7d1b93c61cfcc0d8406ccc080b3bff70ea70",
+      "source_archive_id": "0075_H_AO_H",
+      "source_archive_name": "0075_H_AO_H",
+      "source_url": "https://purl.stanford.edu/rb431rq3271"
+    },
+    {
+      "case_id": "aorta_048",
+      "source_group": "VMR_IMAGE_0071",
+      "source_model_sha256": "4a385d4b760aef2bb1d2b063abb0c673b0799b7bf9a7f5c257dc1b9f7bc69941",
+      "source_archive_id": "0071_H_AO_H",
+      "source_archive_name": "0071_H_AO_H",
+      "source_url": "https://purl.stanford.edu/nr273fv0533"
+    },
+    {
+      "case_id": "aorta_049",
+      "source_group": "VMR_IMAGE_0074",
+      "source_model_sha256": "5686ca12fc4edb52dc6d5d3323452426a6733b4fae124c1d7a1569ddb203b101",
+      "source_archive_id": "0074_H_AO_H",
+      "source_archive_name": "0074_H_AO_H",
+      "source_url": "https://purl.stanford.edu/gf337yv5196"
+    },
+    {
+      "case_id": "aorta_050",
+      "source_group": "VMR_IMAGE_0075",
+      "source_model_sha256": "99b4ad078366f72d74cb1c65eccb7d1b93c61cfcc0d8406ccc080b3bff70ea70",
+      "source_archive_id": "0075_H_AO_H",
+      "source_archive_name": "0075_H_AO_H",
+      "source_url": "https://purl.stanford.edu/rb431rq3271"
+    },
+    {
+      "case_id": "aorta_052",
+      "source_group": "VMR_IMAGE_0143",
+      "source_model_sha256": "ce7f81e837caa0e18f4fa62ee563a8946795da5501198f65a21f519dddaeb7b4",
+      "source_archive_id": "0143_H_AO_H",
+      "source_archive_name": "0143_H_AO_H",
+      "source_url": "https://purl.stanford.edu/ck813kd6855"
+    },
+    {
+      "case_id": "aorta_053",
+      "source_group": "VMR_IMAGE_0145",
+      "source_model_sha256": "8558cc58a15920ada49cf7b44f2ffcc9ebe4114d2544a9a5cfb931ef4be93dfc",
+      "source_archive_id": "0145_H_AO_H",
+      "source_archive_name": "0145_H_AO_H",
+      "source_url": "https://purl.stanford.edu/wv837xy9330"
+    },
+    {
+      "case_id": "aorta_054",
+      "source_group": "VMR_IMAGE_0180",
+      "source_model_sha256": "5f1064d2f5af1c318c178e406f088012367fafbf2ab17a16ee7ade8e06034e83",
+      "source_archive_id": "0180_H_ABAO_AAA",
+      "source_archive_name": "0180_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/bb139gm0670"
+    },
+    {
+      "case_id": "aorta_056",
+      "source_group": "VMR_IMAGE_0150",
+      "source_model_sha256": "daf1695f1109c54e25b85377605a39e3ec66739e31a4b5daabc46a65c08a77f9",
+      "source_archive_id": "0150_H_AO_H",
+      "source_archive_name": "0150_H_AO_H",
+      "source_url": "https://purl.stanford.edu/rt097ns6469"
+    },
+    {
+      "case_id": "aorta_057",
+      "source_group": "VMR_IMAGE_0146",
+      "source_model_sha256": "63642c5a921b6e9690f8d401d4c5c174352d329823d4b1d1fea52fb3e23a9aff",
+      "source_archive_id": "0146_H_AO_H",
+      "source_archive_name": "0146_H_AO_H",
+      "source_url": "https://purl.stanford.edu/rj225mk3958"
+    },
+    {
+      "case_id": "aorta_058",
+      "source_group": "VMR_IMAGE_0148",
+      "source_model_sha256": "46dd96375873aec8a0fcb2a5adbe893c6a404e65d1db593330c60537b08f4780",
+      "source_archive_id": "0148_H_AO_H",
+      "source_archive_name": "0148_H_AO_H",
+      "source_url": "https://purl.stanford.edu/vx271pz7635"
+    },
+    {
+      "case_id": "aorta_059",
+      "source_group": "VMR_IMAGE_0149",
+      "source_model_sha256": "6ce03d12e417c2eb2df8397ef44b37d0484a896b10dfe89d3cfc0314b96c8138",
+      "source_archive_id": "0149_H_AO_H",
+      "source_archive_name": "0149_H_AO_H",
+      "source_url": "https://purl.stanford.edu/bm529xd1055"
+    },
+    {
+      "case_id": "aorta_060",
+      "source_group": "VMR_IMAGE_0150",
+      "source_model_sha256": "daf1695f1109c54e25b85377605a39e3ec66739e31a4b5daabc46a65c08a77f9",
+      "source_archive_id": "0150_H_AO_H",
+      "source_archive_name": "0150_H_AO_H",
+      "source_url": "https://purl.stanford.edu/rt097ns6469"
+    },
+    {
+      "case_id": "aorta_062",
+      "source_group": "VMR_IMAGE_0152",
+      "source_model_sha256": "811db9b7df8f34e3f639e6c0650266fb4096ec72f429ce00e53d7a50df4073f3",
+      "source_archive_id": "0152_H_AO_H",
+      "source_archive_name": "0152_H_AO_H",
+      "source_url": "https://purl.stanford.edu/cw930ns3195"
+    },
+    {
+      "case_id": "aorta_063",
+      "source_group": "VMR_IMAGE_0153",
+      "source_model_sha256": "0e992208c27665eb2692bbddc12999221a85c1463998c559bf0a54ff351a4af8",
+      "source_archive_id": "0153_H_AO_H",
+      "source_archive_name": "0153_H_AO_H",
+      "source_url": "https://purl.stanford.edu/sz765sz5154"
+    },
+    {
+      "case_id": "aorta_068",
+      "source_group": "VMR_IMAGE_0183",
+      "source_model_sha256": "2ab7f0d55fd59c6e8ab41d62ebc1309fe0fb4048b1c4c5c69b3957af0c1a458a",
+      "source_archive_id": "0183_H_ABAO_AAA",
+      "source_archive_name": "0183_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/mc638fr6636"
+    },
+    {
+      "case_id": "aorta_069",
+      "source_group": "VMR_IMAGE_0179",
+      "source_model_sha256": "7e84413d8d42272a5cb18a082515da214f8dd858ebcc8529a97e67ef2e036c20",
+      "source_archive_id": "0179_H_ABAO_AAA",
+      "source_archive_name": "0179_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/xc515mb2103"
+    },
+    {
+      "case_id": "aorta_070",
+      "source_group": "VMR_IMAGE_0185",
+      "source_model_sha256": "fc77b78e79ffaf1e888b733b0312412181737633cd1203411507b61065f519be",
+      "source_archive_id": "0185_H_ABAO_AAA",
+      "source_archive_name": "0185_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/jz330vx5522"
+    },
+    {
+      "case_id": "aorta_071",
+      "source_group": "VMR_IMAGE_0182",
+      "source_model_sha256": "eb7f68be405ef802d2c0440c54c75f19fa55342547a66bfc62ca08a9897ad503",
+      "source_archive_id": "0182_H_ABAO_AAA",
+      "source_archive_name": "0182_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/gt012rg2354"
+    },
+    {
+      "case_id": "aorta_072",
+      "source_group": "VMR_IMAGE_0187",
+      "source_model_sha256": "50d7d2dd71e351b7fdf7a3b9c58b882deadb35b80dcd34f8609c7bb11aaba5f6",
+      "source_archive_id": "0187_H_ABAO_AAA",
+      "source_archive_name": "0187_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/cz368hk6237"
+    },
+    {
+      "case_id": "aorta_076",
+      "source_group": "VMR_IMAGE_0227",
+      "source_model_sha256": "a8312938c312cb22e6656758874747ea903e83dc07b343e523536ec9bf848fb1",
+      "source_archive_id": "0227_H_AO_COA",
+      "source_archive_name": "0227_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/hh073fw2871"
+    },
+    {
+      "case_id": "aorta_077",
+      "source_group": "VMR_IMAGE_0191",
+      "source_model_sha256": "90a40b2fb18d766b4f4d7e10b7b67b3400739fb3c9c2c40166e4809ecaf775d0",
+      "source_archive_id": "0191_H_ABAO_AAA",
+      "source_archive_name": "0191_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/vw105ry9151"
+    },
+    {
+      "case_id": "aorta_078",
+      "source_group": "VMR_IMAGE_0196",
+      "source_model_sha256": "4225f1ceeeae9676794ca46765168e6359f9686ededb63e0bef921ccfb1ac03f",
+      "source_archive_id": "0196_H_ABAO_AAA",
+      "source_archive_name": "0196_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/cq087rg1352"
+    },
+    {
+      "case_id": "aorta_080",
+      "source_group": "VMR_IMAGE_0197",
+      "source_model_sha256": "2282357620daa342226a9bebcb7373aeeef50dde79fe37b0524225a88ca8ff2a",
+      "source_archive_id": "0197_H_ABAO_H",
+      "source_archive_name": "0197_H_ABAO_H",
+      "source_url": "https://purl.stanford.edu/fs027qk3981"
+    },
+    {
+      "case_id": "aorta_081",
+      "source_group": "VMR_IMAGE_0198",
+      "source_model_sha256": "06cdd0e94b26b403862573434bd09bce8581510566b67fe944b4e738f9a478b4",
+      "source_archive_id": "0198_H_ABAO_AAA",
+      "source_archive_name": "0198_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/jx184hq5802"
+    },
+    {
+      "case_id": "aorta_082",
+      "source_group": "VMR_IMAGE_0230",
+      "source_model_sha256": "87c543d341c656752c4e972709833190605291280eb116122d17a7164a607e5c",
+      "source_archive_id": "0230_H_AO_COA",
+      "source_archive_name": "0230_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/fp967pm6219"
+    },
+    {
+      "case_id": "aorta_083",
+      "source_group": "VMR_IMAGE_0231",
+      "source_model_sha256": "0be1fc102b4d271425120af52edb5293f194226e2e1ec323c3bdbb26dffb0a91",
+      "source_archive_id": "0231_H_AO_COA",
+      "source_archive_name": "0231_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/rn667wz9165"
+    },
+    {
+      "case_id": "aorta_084",
+      "source_group": "VMR_IMAGE_0232",
+      "source_model_sha256": "0607d8d925aa46003cb79091a23c24ee15d44157d64e2d00b9a35554f05f84a9",
+      "source_archive_id": "0232_H_AO_COA",
+      "source_archive_name": "0232_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/bc285hf9643"
+    },
+    {
+      "case_id": "aorta_085",
+      "source_group": "VMR_IMAGE_0233",
+      "source_model_sha256": "4b6760e471aac850317c41d0c97628bb64a0394e1bd680ac72a5b02a361398f5",
+      "source_archive_id": "0233_H_AO_COA",
+      "source_archive_name": "0233_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/kv971np5431"
+    },
+    {
+      "case_id": "aorta_087",
+      "source_group": "VMR_IMAGE_0235",
+      "source_model_sha256": "cb5b4fb84645413c2ea49357fd09aa99b75d822678aa1923af4197da6f94303f",
+      "source_archive_id": "0235_H_AO_COA",
+      "source_archive_name": "0235_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/vb134gp5644"
+    },
+    {
+      "case_id": "aorta_088",
+      "source_group": "VMR_IMAGE_0236",
+      "source_model_sha256": "0544259afcddd29ebf8e1b2dd38d8bc42f9292fa06dce8da1229198f71d143e5",
+      "source_archive_id": "0236_H_AO_COA",
+      "source_archive_name": "0236_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/fb075kq3291"
+    },
+    {
+      "case_id": "aorta_089",
+      "source_group": "VMR_IMAGE_0237",
+      "source_model_sha256": "ba29cf1a57d32bda252ff057ae25a4ff69d2b4422f5237b947d08f9fd40fb3bd",
+      "source_archive_id": "0237_H_AO_COA",
+      "source_archive_name": "0237_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/gd440wv5593"
+    },
+    {
+      "case_id": "aorta_090",
+      "source_group": "VMR_IMAGE_0238",
+      "source_model_sha256": "b9a0e34d4d6e37877e1b78e154eea9799c3d4ccd43bd55d3c61c4252e98d9652",
+      "source_archive_id": "0238_H_AO_COA",
+      "source_archive_name": "0238_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/zd224jj1863"
+    },
+    {
+      "case_id": "aorta_091",
+      "source_group": "VMR_IMAGE_0228",
+      "source_model_sha256": "dc59d118cc5ab6cd5be65f6f7fd38c0cd0b17daecc24eb5743d9d1e4b20dfce0",
+      "source_archive_id": "0228_H_AO_COA",
+      "source_archive_name": "0228_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/vz747py6380"
+    },
+    {
+      "case_id": "aorta_092",
+      "source_group": "VMR_IMAGE_0240",
+      "source_model_sha256": "8b300373e6ccf3f0c57a339cc82b9365592cbafc0e836f0dd8c42d1391ef2c19",
+      "source_archive_id": "0240_H_AO_COA",
+      "source_archive_name": "0240_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/zr392mm7982"
+    },
+    {
+      "case_id": "aorta_093",
+      "source_group": "VMR_IMAGE_0241",
+      "source_model_sha256": "6c2c385a8d3def9a3c092a04179639f5720eca19c38f0a30d08f873ed9616037",
+      "source_archive_id": "0241_H_AO_COA",
+      "source_archive_name": "0241_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/ng066hx3552"
+    },
+    {
+      "case_id": "aorta_094",
+      "source_group": "VMR_IMAGE_0188",
+      "source_model_sha256": "9f22b95b7ecd0a649304957073935ec3b5eda6027eee4d3e895457166be21675",
+      "source_archive_id": "0188_H_ABAO_AAA",
+      "source_archive_name": "0188_H_ABAO_AAA",
+      "source_url": "https://purl.stanford.edu/hv434rx1492"
+    },
+    {
+      "case_id": "aorta_095",
+      "source_group": "VMR_IMAGE_0240",
+      "source_model_sha256": "8b300373e6ccf3f0c57a339cc82b9365592cbafc0e836f0dd8c42d1391ef2c19",
+      "source_archive_id": "0240_H_AO_COA",
+      "source_archive_name": "0240_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/zr392mm7982"
+    },
+    {
+      "case_id": "aorta_096",
+      "source_group": "VMR_IMAGE_0189",
+      "source_model_sha256": "e73f75660a09dd0477d40e5e054a7c24806d9e2c85c225d3445dd8743a14ebf1",
+      "source_archive_id": "0189_H_ABAO_H",
+      "source_archive_name": "0189_H_ABAO_H",
+      "source_url": "https://purl.stanford.edu/fw107bv5621"
+    },
+    {
+      "case_id": "aorta_097",
+      "source_group": "VMR_IMAGE_0228",
+      "source_model_sha256": "dc59d118cc5ab6cd5be65f6f7fd38c0cd0b17daecc24eb5743d9d1e4b20dfce0",
+      "source_archive_id": "0228_H_AO_COA",
+      "source_archive_name": "0228_H_AO_COA",
+      "source_url": "https://purl.stanford.edu/vz747py6380"
+    },
+    {
+      "case_id": "aorta_098",
+      "source_group": "VMR_IMAGE_0142",
+      "source_model_sha256": "ee58209d1a2b39bba969c75dd3cf6b467041214024bcf700f49bf69b61eaf648",
+      "source_archive_id": "0142_H_AO_H",
+      "source_archive_name": "0142_H_AO_H",
+      "source_url": "https://purl.stanford.edu/gq904tb0412"
+    }
+  ]
+}

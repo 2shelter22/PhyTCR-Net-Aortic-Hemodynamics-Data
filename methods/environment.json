@@ -1,0 +1,31 @@
+{
+  "training_environment": {
+    "python": "3.12.7",
+    "numpy": "2.5.1",
+    "pytorch": "2.13.0+cpu",
+    "device": "CPU"
+  },
+  "tested_neural_environment": {
+    "python": "3.12.7",
+    "numpy": "2.5.1",
+    "pytorch": "2.13.0+cpu",
+    "torch_threads": 4
+  },
+  "tested_ROM_environment": {
+    "numpy": "2.2.6",
+    "scipy": "1.15.2",
+    "BLAS_threads": 1
+  },
+  "dependencies": {
+    "data_reading_and_scoring": [
+      "Python 3",
+      "NumPy >=1.22"
+    ],
+    "RI_RCR": [
+      "SciPy"
+    ],
+    "neural_models": [
+      "PyTorch"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "fixed_peak_lr": 0.001,
+  "K": 160,
+  "accumulation_cases": 4,
+  "partial_final_accumulation": "divide by actual partial microbatch count",
+  "warmup_epochs": 5,
+  "terminal_lr_fraction": 0.05,
+  "optimizer": "AdamW",
+  "weight_decay": 0.0001,
+  "betas": [
+    0.9,
+    0.999
+  ],
+  "epsilon": 1e-08,
+  "foreach": false,
+  "gradient_norm_clip": 5.0,
+  "eval_epoch0_and_interval": 14,
+  "final_evaluation": true,
+  "early_stop_minimum": 54,
+  "patience": 4,
+  "relative_refresh": 0.005,
+  "checkpoint": "minimum inner-validation joint S, exact tie earliest; one shared P/Q checkpoint",
+  "seeds": [
+    7,
+    19,
+    43
+  ],
+  "fold_normalization": "case-equal actual-training-only means/second moments, std floor1 in raw units",
+  "refit_each_reduced_training_subset": true,
+  "outer_scores_for": "evaluation of the shared P/Q checkpoint selected by inner validation",
+  "same_seed_case_order_optimizer_opportunity_within_each_comparison": true,
+  "schema": "primary_model_training_v1.0",
+  "models": [
+    "PhyTCR-Net",
+    "D1"
+  ],
+  "initializations": "independent random initialization per fold and seed",
+  "supervised_loss": ".5*(P_mean_MSE+P_wave_MSE+Q_mean_MSE+Q_wave_MSE)",
+  "local_loss_weight": 0.01,
+  "complete_loss": "supervised+0.01*local_mass",
+  "epoch_case_order_seed": "seed+100003*epoch"
+}
